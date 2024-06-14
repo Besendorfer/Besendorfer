@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my GitHub page! It is currently in the process of being overhauled. Feel free to look around; just know that it may not be fully up-to-date or as robust as I'm hoping it will be in the near future.
+
 [![Besendorfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Besendorfer&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
