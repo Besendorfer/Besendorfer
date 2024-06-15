@@ -4,6 +4,8 @@ Welcome to my GitHub page! It is currently in the process of being overhauled. F
 
 Bio: My name is Teancum Besendorfer, but please call me TJ. I like to get things done right the first time. This can, of course, spiral into perfectionism, so a balance is necessary. I'm fascinated with both functional and reactive programming. I love delighting users, whether those users are an application's user, or a developer using a tool.
 
+I love full-stack web application development. Bleeding Edge is fun, but where I truly have fun is writing clean, easy-to-understand-and-maintain code. I'm flexible on the tools I use to achieve that desire, but I have fallen in love with TypeScript and will use it in every case where it is among the top choices. Another point of interest is RxJS. The idea of "composing asynchronous and event-based programs" combined with functional aspects is glorious.
+
 [![Besendorfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Besendorfer&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
