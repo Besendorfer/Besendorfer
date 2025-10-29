@@ -6,7 +6,6 @@ Bio: My name is Teancum Besendorfer, but please call me TJ. I like to get things
 
 I love full-stack web application development. Bleeding Edge is fun, but where I truly have fun is writing clean, easy-to-understand-and-maintain code. I'm flexible on the tools I use to achieve that desire, but I have fallen in love with TypeScript and will use it in every case where it is among the top choices. Another point of interest is RxJS. The idea of "composing asynchronous and event-based programs" combined with functional aspects is glorious.
 
-[![Besendorfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Besendorfer&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Besendorfer/Besendorfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
