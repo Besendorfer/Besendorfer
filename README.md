@@ -1,10 +1,51 @@
-## Hi there 👋
+# Call me TJ
 
-Welcome to my GitHub page! It is currently in the process of being overhauled. Feel free to look around; just know that it may not be fully up-to-date or as robust as I'm hoping it will be in the near future.
+**TL;DR:** I ship software — web, mobile, backend, data, and AI — using whatever tools get the job done *now*, not whatever I liked last year.
 
-Bio: My name is Teancum Besendorfer, but please call me TJ. I like to get things done right the first time. This can, of course, spiral into perfectionism, so a balance is necessary. I'm fascinated with both functional and reactive programming. I love delighting users, whether those users are an application's user, or a developer using a tool.
+---
 
-I love full-stack web application development. Bleeding Edge is fun, but where I truly have fun is writing clean, easy-to-understand-and-maintain code. I'm flexible on the tools I use to achieve that desire, but I have fallen in love with TypeScript and will use it in every case where it is among the top choices. Another point of interest is RxJS. The idea of "composing asynchronous and event-based programs" combined with functional aspects is glorious.
+I’m a pragmatic software engineer who values clean code, but values **shipping** more. I’m comfortable moving fast, changing direction, and throwing things away if it leads to better outcomes.
+
+---
+
+## What I Build
+
+* Full‑stack web apps
+* Mobile apps
+* Backend systems & APIs
+* Data workflows
+* AI‑driven products and developer tooling
+
+---
+
+## How I Work
+
+* Pragmatic over dogmatic
+* Flexible on languages and frameworks
+* Leverage > perfection
+* Bias toward bleeding‑edge when it helps
+
+I don’t default to TypeScript anymore. I default to *fit for purpose*.
+
+---
+
+## AI
+
+I’m deep into AI‑assisted and agent‑based development.
+
+Current stack (until it isn’t):
+
+* Claude Code CLI
+* Zed
+* AWS Bedrock / AgentCore / Strands
+* LangFuse
+
+Still hands‑on, actively testing how much of the loop agents can own.
+
+---
+
+If you like building useful things quickly — and aren’t married to a stack — we’ll probably get along.
+
 
 
 <!--
