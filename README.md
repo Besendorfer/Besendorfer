@@ -1,50 +1,17 @@
 # Call me TJ
 
-**TL;DR:** I ship software (web, mobile, backend, data, and AI) using whatever tools get the job done *now*, not whatever I liked last year. 
+**TL;DR:** I ship software (web, mobile, backend, data, and AI) using whatever tools get the job done *now*, not whatever I liked last year.
 
----
+I’m a pragmatic software engineer. I like clean code, but I care more about shipping. I’m comfortable moving fast, changing direction, and throwing things away if it leads to better outcomes.
 
-I’m a pragmatic software engineer who values clean code, but values **shipping** more. I’m comfortable moving fast, changing direction, and throwing things away if it leads to better outcomes.
+I work across full‑stack web, mobile apps, backend systems, data workflows, and AI‑driven products and developer tooling. I like being close to the actual problem, wherever that lives.
 
----
+I’m flexible on languages and frameworks, biased toward leverage over perfection, and willing to use bleeding‑edge tech when it helps. I don’t default to TypeScript anymore; I default to whatever works (or potentially best) for the task.
 
-## What I Build
-
-* Full‑stack web apps
-* Mobile apps
-* Backend systems & APIs
-* Data workflows
-* AI‑driven products and developer tooling
-
----
-
-## How I Work
-
-* Pragmatic over dogmatic
-* Flexible on languages and frameworks
-* Leverage > perfection
-* Bias toward bleeding‑edge when it helps
-
-I don’t default to TypeScript anymore. I default to *fit for purpose*.
-
----
-
-## AI
-
-I’m deep into AI‑assisted and agent‑based development.
-
-Current stack (until it isn’t):
-
-* Claude Code CLI
-* Zed
-* AWS Bedrock / AgentCore / Strands
-* LangFuse
-
-Still hands‑on, actively testing how much of the loop agents can own.
-
----
+I’m deep into AI‑assisted and agent‑based development. Current tools (until they aren’t): Claude Code CLI, Zed, AWS Bedrock / AgentCore / Strands, and LangFuse. Still very hands‑on, but actively testing how much of the development loop agents can realistically own.
 
 If you like building useful things quickly, and aren’t married to a stack, we’ll probably get along.
+
 
 
 
