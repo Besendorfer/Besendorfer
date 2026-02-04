@@ -1,6 +1,6 @@
 # Call me TJ
 
-**TL;DR:** I ship software — web, mobile, backend, data, and AI — using whatever tools get the job done *now*, not whatever I liked last year.
+**TL;DR:** I ship software (web, mobile, backend, data, and AI) using whatever tools get the job done *now*, not whatever I liked last year. 
 
 ---
 
@@ -44,7 +44,7 @@ Still hands‑on, actively testing how much of the loop agents can own.
 
 ---
 
-If you like building useful things quickly — and aren’t married to a stack — we’ll probably get along.
+If you like building useful things quickly, and aren’t married to a stack, we’ll probably get along.
 
 
 
